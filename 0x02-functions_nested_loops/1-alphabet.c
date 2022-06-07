@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_alphabet: Initialization point
+ * print_alphabet: check description line
  * Descritption: prints the alphabet in lowercase followed by a new line
  * Return: Always 0 (Success)
  */
